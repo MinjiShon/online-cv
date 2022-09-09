@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Minji Shon
@@ -17,7 +17,7 @@ sidebar:
     timezone: Republic of Korea 
     citizenship: Republic of Korea 
     #website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/minji-shon-707b04209
+    linkedin: https://www.linkedin.com/in/minji-shon-707b04209 ##?? 
     #xing: alandoe
     github: MinjiShon
     #telegram: # add your nickname without '@' sign
@@ -38,13 +38,11 @@ sidebar:
         - idiom: Korean
           level: Native
 
-        - idiom: Chinese
-          level: Beginner 
 
     interests:
       title: Interests
       info:
-        - item: Suquash
+        - item: Squash
           link:
 
         - item: Golf
@@ -58,7 +56,12 @@ career-profile:
     summary: |
       6+ years of strong hands-on experience with DFR (Design For Reliability) as reliability engineer’ in Quality & Reliability team, Foundry Business, Samsung Electronics
       You can [download this free resume/CV template here]().
-      
+   
+    assignments:
+      - title: Research Interests 
+        #link: "#hook"
+        tagline: "Circuit Reliability, Analog and  Mixed-signal IC design, Digital circuit design, Wafer Level Reliability, Device modeling, characterization, Evaluation and Analysis "      
+
 education:
     title: Education
     info:
@@ -69,23 +72,12 @@ education:
           - Graduated with Honors 
           - GPA(Major) 3.9/4.0, GPA(Total) 3.84/4.0 (1 out of 21, 130 credits) 
 
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 experiences:
-    title: Experiences
+    title: WORK EXPERIENCE
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technology Quality & Reliability Engineer
+        time: Aug. 2016 –  Present
+        company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,8 +88,14 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Implemented circuit aging environment
+            Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
+            - Improved the coverage and accuracy of transistor’s aging models
+            Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
+            Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
+            Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
+            Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
