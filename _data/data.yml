@@ -55,9 +55,9 @@ career-profile:
     title: Career Profile
     summary: |
       6+ years of strong hands-on experience with DFR (Design For Reliability) as reliability engineer’ in Quality & Reliability team, Foundry Business, Samsung Electronics
-      You can [download this free resume/CV template here](). 
-    summary: |
-      Research Interests: |
+      You can [download this free resume/CV template here](). |
+    
+      - Research Interests: 
       - Circuit Reliability, Analog and  Mixed-signal IC design, Digital circuit design, Wafer Level Reliability, Device modeling, characterization, Evaluation and Analysis 
 
 
