@@ -56,11 +56,9 @@ career-profile:
     summary: |
       6+ years of strong hands-on experience with DFR (Design For Reliability) as reliability engineer’ in Quality & Reliability team, Foundry Business, Samsung Electronics
       You can [download this free resume/CV template here]().
-   
-    assignments:
-      - title: Research Interests 
-        #link: "#hook"
-        tagline: "Circuit Reliability, Analog and  Mixed-signal IC design, Digital circuit design, Wafer Level Reliability, Device modeling, characterization, Evaluation and Analysis "      
+      Research Interests: |
+      Circuit Reliability, Analog and  Mixed-signal IC design, Digital circuit design, Wafer Level Reliability, Device modeling, characterization, Evaluation and Analysis 
+
 
 education:
     title: Education
@@ -72,6 +70,13 @@ education:
           - Graduated with Honors 
           - GPA(Major) 3.9/4.0, GPA(Total) 3.84/4.0 (1 out of 21, 130 credits) 
 
+      - degree: Exchange Student, Electrical and Computer Engineering
+        university: UNIVERSITY of CONNECTICUT, Storrs, CT, USA
+        time: Jan. 2015 – May. 2015
+        details: |
+          - GPA (Major) 4.0/4.0 
+
+          
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -88,36 +93,35 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Implemented circuit aging environment
-            Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
-            - Improved the coverage and accuracy of transistor’s aging models
-            Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
-            Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
-            Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
-            Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
+            - Implemented circuit aging environment |
+          Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
+            - Improved the coverage and accuracy of transistor’s aging models |
+          Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
+          Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
+          Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
+          Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Dispatch, Design Enablement Team
+        time: Oct. 2021 – Dec. 2021
+        company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Dispatched to RF device modeling group to enhance RF device reliability in both DC and AC simulation 
+            - Extracted binning and global models for 8nm RF technology 
+            
+      - role: Intern, Technology Quality & Reliability Group
+        time: Jul. 2016 – Aug. 2016
+        company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Proposed enhancing dynamic device voltage check methodology by analyzing bias check simulation environment and voltage check rules
+            - Tested EMS (Electro-Magnetic Susceptibility) and EMI (Electro-Magnetic Interference) with semiconductor chips 
+
+      - role: Undergraduate student research, Signal Processing Systems Laboratory
+        time: Jan. 2016 – Jun. 2016
+        company: SOGANG UNIVERSITY, Republic of Korea
+        details: |
+            - Implemented real-time high-speed and high-resolution ultrasound image processing in equipment by using CUDA GPU language  (Advisor: Taekyung Song)
+            
+            
 projects:
     title: Projects
     intro: >
@@ -152,42 +156,22 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Aging-aware design verification methods under real product operating conditions
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Shim, H., Jo, J., Kim, Y., Jeong, B., Shon, M., Jiang, H., & Pae, S.
+        conference:  IEEE International Reliability Physics Symposium (IRPS), 2019
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: ENGINEERING SKILLS & TOOLS
+    intro: |
+      Simulation Tools 
     toolset:
-      - name: Python & Django
+      - name: SPICE Simulation Tools (FineSim; HSPICE; Spectre etc.)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Reliability Simulation Tools (RelXpert; MOSRA; OMI; Spectre-native)
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
