@@ -86,22 +86,13 @@ experiences:
         time: Aug. 2016 –  Present
         company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Implemented circuit aging environment |
-          Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
-            - Improved the coverage and accuracy of transistor’s aging models |
-          Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
-          Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
-          Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
-          Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
+          Implemented circuit aging environment |
+          - Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
+          Improved the coverage and accuracy of transistor’s aging models |
+          - Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
+          - Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
+          - Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
+          - Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
 
       - role: Dispatch, Design Enablement Team
         time: Oct. 2021 – Dec. 2021
