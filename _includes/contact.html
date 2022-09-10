@@ -67,9 +67,9 @@
     </li>
     {% endif %}
 
-    {% if sidebar.twitter %}
-    <li class="twitter"><i class="fab fa-twitter"></i>
-      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    {% if sidebar.instagram %}
+    <li class="instagram"><i class="fab fa-instagram"></i>
+      <a href="https://www.instagram.com/{{ sidebar.instagram }}" target="_blank">{{ sidebar.instagram }}</a>
     </li>
     {% endif %}
 
@@ -93,9 +93,15 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href ="{{ site.baseurl }}/assets/images/{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href ="{{ site.baseurl }}/assets/images/{{ sidebar.pdf }}" target="_blank">CV PDF</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.pdf2 %}
+    <li class="pdf2"><i class="fas fa-file-pdf"></i>
+      <a href ="{{ site.baseurl }}/assets/images/{{ sidebar.pdf2 }}" target="_blank">SOP PDF</a>
+    </li>
+    {% endif %}    
 
   </ul>
 </div><!--//contact-container-->
