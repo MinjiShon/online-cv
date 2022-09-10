@@ -21,7 +21,9 @@
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
       </div><!--//level-bar-->
-
+  <div class="summary">
+    {{ skills.summary | markdownify }}
+  </div><!--//summary-->
     </div><!--//item-->
     {% endfor %}
 
