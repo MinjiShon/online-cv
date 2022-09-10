@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: file:///C:/%EB%AF%BC%EC%A7%80/%EC%9C%A0%ED%95%99%EC%A4%80%EB%B9%84/%EC%97%90%EC%84%B8%EC%9D%B4/Statement%20of%20Purpose_Minji%20Shon.pdf
+    pdf: Statement of Purpose_MinjiShon.pdf
 
     languages:
       title: Languages
