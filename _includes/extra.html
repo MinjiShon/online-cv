@@ -1,0 +1,32 @@
+{% assign extra = site.data.data.extra %}
+{% if extra %}
+<section class="section extra-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-award fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ extra.title }}
+  </h2>
+
+  {% if extra.intro %}
+  <div class="intro">
+    {{ extra.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for extra in extra.papers %}
+  <div class="item">
+    {% if extra.link %}
+      <li><a href="{{ extra.link }}">{{ extra.title }}</a></li>
+    {% else %}
+      <li>{{ extra.title }}</li>
+    {% endif %}
+    <div class="extra-authors">{{ extra.authors }}</div>
+    <div class="extra-conference">{{ extra.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
