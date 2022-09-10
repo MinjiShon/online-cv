@@ -137,9 +137,9 @@ projects:
 honors:
     title: Honors & Awards 
     intro: |
-    #- Dean’s List, Sogang University
-    #- Full National Scholarship for Academic Excellence, Korea Student Aid Foundation (KSAF), 2014~2016; 20,000 USD
-    #- Honors Scholarship for Academic Excellence, Sogang University, 2012~2015; 10,000 USD
+    - Dean’s List, Sogang University
+    - Full National Scholarship for Academic Excellence, Korea Student Aid Foundation (KSAF), 2014~2016; 20,000 USD
+    - Honors Scholarship for Academic Excellence, Sogang University, 2012~2015; 10,000 USD
 
 
 publications:
@@ -156,27 +156,40 @@ skills:
     intro: |
       Simulation Tools 
     toolset:
-      - name: SPICE Simulation Tools (FineSim; HSPICE; Spectre etc.)
-        level: 98%
+      - name: Circuit Netlisting  
+        #level: 98%
 
-      - name: Reliability Simulation Tools (RelXpert; MOSRA; OMI; Spectre-native)
-        level: 98%
+      - name: Reliability Simulation Tools 
+        #level: 98%
+
+      - name: Tool Packages  
+        #level: 98%
+
+      - name: High level-languages 	
+        #level: 98%        
+        
+      - name: Scripting Languages 		
+        #level: 98%        
 
 teaching:
     title: Teaching Experience
     info:
-      - degree: B.S., Electronic Engineering
-        university: SOGANG UNIVERSITY, Seoul, Republic of Korea
-        time: Mar. 2012 – Aug. 2016
+      - degree: Education Mentor 
+        university: SAMSUNG ELECTRONICS, Republic of Korea
+        time: Jan. 2020 – Mar. 2020
         details: |
-          - Graduated with Honors 
-          - GPA(Major) 3.9/4.0, GPA(Total) 3.84/4.0 (1 out of 21, 130 credits) 
+        Dispatched as a mentor for SVP(Samsung Value Program) mentoring new employees 
+        Presented lectures of global business manners and etiquettes, also managed time schedules for education programs
+        Performed the role of facilitator providing guidance in team projects to bring out members’ creativity and abilities
 
-      - degree: Exchange Student, Electrical and Computer Engineering
-        university: UNIVERSITY of CONNECTICUT, Storrs, CT, USA
-        time: Jan. 2015 – May. 2015
+
+      - degree: Education Mentor, Sub-course Manager
+        university: SAMSUNG ELECTRONICS, Republic of Korea
+        time: Jan. 2022 – Mar. 2022
         details: |
-          - GPA (Major) 4.0/4.0 
+        Dispatched as a sub-course manager for GNEC(Global New Employee Course)
+        Presented lectures of communication skills and creative thinking 
+
           
           
 footer: >
