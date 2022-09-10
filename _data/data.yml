@@ -160,19 +160,19 @@ skills:
 
     toolset:
       - name: Circuit Netlisting  
-        #level: 98%
+        list: Finesim; Hspice; Spectre
 
       - name: Reliability Simulation 
-        #level: 98%
+        list: RelXpert; MOSRA; OMI; Spectre-native
 
       - name: Tool Packages  
-        #level: 98%
+        list: Cadence Virtuoso; MATLAB
 
       - name: High level-languages 	
-        #level: 98%        
+        list: Python; C   
         
       - name: Scripting Languages 		
-        #level: 98%        
+        list: Perl; TCL  
 
 teaching:
     title: Teaching Experience
@@ -181,17 +181,17 @@ teaching:
         university: SAMSUNG ELECTRONICS, Republic of Korea
         time: Jan. 2020 – Mar. 2020
         details: |
-          Dispatched as a mentor for SVP(Samsung Value Program) mentoring new employees 
-          Presented lectures of global business manners and etiquettes, also managed time schedules for education programs
-          Performed the role of facilitator providing guidance in team projects to bring out members’ creativity and abilities
+          Dispatched as a mentor for SVP(Samsung Value Program) mentoring new employees |
+          Presented lectures of global business manners and etiquettes, also managed time schedules for education programs |
+          Performed the role of facilitator providing guidance in team projects to bring out members’ creativity and abilities |
 
 
       - degree: Education Mentor, Sub-course Manager
         university: SAMSUNG ELECTRONICS, Republic of Korea
         time: Jan. 2022 – Mar. 2022
         details: |
-          Dispatched as a sub-course manager for GNEC(Global New Employee Course)
-          Presented lectures of communication skills and creative thinking 
+          Dispatched as a sub-course manager for GNEC(Global New Employee Course) |
+          Presented lectures of communication skills and creative thinking |
 
           
           
