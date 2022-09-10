@@ -94,17 +94,17 @@ experiences:
           - Built up aging PDK components based on accelerated Si test results up to 3nm GAA technology
         details2: |          
           Improved the coverage and accuracy of transistor’s aging models 
-          - Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation
-          - Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation on FinFET technologies
-          - Provide layout-based self-heat models and simulation environments on FinFET technology collaborating with device reliability group
+          - Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation on FinFET technologies
+          - Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation 
+          - Provide layout-based self-heat models and simulation environments collaborating with device reliability group
           - Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
         details3: | 
           Provided IP and product-level reliability verification methods
-          - Guided aging-aware circuit design methods contributing to Samsung’s Exynos devices from 14nm to 4nm
+          - Guided aging-aware circuit design methods contributing to Samsung’s Exynos devices from 14nm to 4nm technology
           - Reviewed HCI body-effect and implemented aging models in simulation environments to support 1.8V and 3.3V GPIO by stacking Single Gate devices for 3nm GAA technology
           - Collaborated with a Design Technology group to provide guidance of reliability timing margin for Application Processor devices with critical path aging simulation. Put efforts to provide realistic timing margin analyzing BTI effects 
           - Provided aging-aware verification methods in real operating conditions:  Multi-step aging and Power-Down mode simulation methods causing HCI degradation and aging-induced Vt mismatch in ICs 
-          - Implemented verification methods to support overdrive voltage in program mode for memory IPs such as eFUSE, OTP and MRAM. 
+          - Implemented verification methods to support overdrive voltage for memory IPs such as eFUSE, OTP and MRAM. 
          
       - role: Dispatch, Design Enablement Team
         time: Oct. 2021 – Dec. 2021
