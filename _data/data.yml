@@ -57,14 +57,13 @@ career-profile:
       Hi, my name is Minji Shon. I am Design For Reliability (DFR) engineer with over 6 years experience 
       in Quality & Reliability team, Foundry Business, Samsung Electronics. 
       I completed my bachelor's degree in Sogang University. 
-      I love to enjoy playing sports especially squash and golf. 
       #You can [download this free resume/CV template here](). 
 
 research:
     title: Research
     summary: |
       I am interested in Circuit Reliability including analog & mixed-signal IC design and digital circuit design. 
-      They are based on Device modeling and Characterization especially Wafer Level Reliability.  
+      Mostlly based on Device modeling and Characterization especially Wafer Level Reliability.  
 
 
 education:
@@ -128,16 +127,16 @@ experiences:
             - Implemented real-time high-speed and high-resolution ultrasound image processing in equipment by using CUDA GPU language  (Advisor: Taekyung Song)
             
             
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 honors:
     title: Honors & Awards 
@@ -201,7 +200,13 @@ teaching:
           - Dispatched as a sub-course manager for GNEC(Global New Employee Course) 
           - Presented lectures of communication skills and creative thinking 
 
-          
+extra:
+    title: Miscellaneous 
+    intro: |
+      - I love to enjoy playing sports. 
+      I've been playing squash for more than ten years, and now I am a chief of Samsung Squash Club since 2019.  
+      I also achieved 1st prize in amateur squash competitions held in the Republic of Korea. I am a big fan of LG Twins in KBL. 
+      - I also like to travel various countries. 
           
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
