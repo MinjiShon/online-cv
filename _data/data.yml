@@ -153,13 +153,15 @@ publications:
 
 skills:
     title: ENGINEERING SKILLS & TOOLS
-    intro: |
-      Simulation Tools 
+    summary: |
+      - Development of customized reliability simulation tools from Cadence and Synopsys  
+      - Data analysis. Automation script for aging model implementation
+
     toolset:
       - name: Circuit Netlisting  
         #level: 98%
 
-      - name: Reliability Simulation Tools 
+      - name: Reliability Simulation 
         #level: 98%
 
       - name: Tool Packages  
