@@ -124,7 +124,7 @@ experiences:
             
             
 projects:
-    title: TEACHING EXPERIENCE
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -162,6 +162,22 @@ skills:
       - name: Reliability Simulation Tools (RelXpert; MOSRA; OMI; Spectre-native)
         level: 98%
 
+teaching:
+    title: Teaching Experience
+    info:
+      - degree: B.S., Electronic Engineering
+        university: SOGANG UNIVERSITY, Seoul, Republic of Korea
+        time: Mar. 2012 – Aug. 2016
+        details: |
+          - Graduated with Honors 
+          - GPA(Major) 3.9/4.0, GPA(Total) 3.84/4.0 (1 out of 21, 130 credits) 
 
+      - degree: Exchange Student, Electrical and Computer Engineering
+        university: UNIVERSITY of CONNECTICUT, Storrs, CT, USA
+        time: Jan. 2015 – May. 2015
+        details: |
+          - GPA (Major) 4.0/4.0 
+          
+          
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
