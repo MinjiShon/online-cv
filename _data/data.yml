@@ -23,12 +23,13 @@ sidebar:
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
-    #twitter: '@webjeda'
+    instagram: mj_shon
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: MinjiShon_CV_20220910.pdf
-
+    pdf2: SOP_MinjiShon_20220910.pdf
+    
     languages:
       title: Languages
       info:
