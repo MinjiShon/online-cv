@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: Statement of Purpose_MinjiShon.pdf
+    pdf: MinjiShon_CV_20220910.pdf
 
     languages:
       title: Languages
@@ -210,4 +210,4 @@ extra:
       - I also like to travel various countries. 
           
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Hosted on GitHub Pages - Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
