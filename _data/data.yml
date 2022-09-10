@@ -155,18 +155,29 @@ publications:
 skills:
     title: ENGINEERING SKILLS & TOOLS
     intro: >
-      - Development of customized reliability simulation tools from Cadence and Synopsys  
+      - Development of customized reliability simulation tools from Cadence and Synopsys  | 
       - Data analysis. Automation script for aging model implementation
-    assignments:
-      - title: Circuit Netlisting 
+    toolset:
+      - title: Circuit Netlisting: 
         #link: "#hook"
         tagline: Finesim; Hspice; Spectre
         
-      - title: Reliability Simulation 
+      - title: Reliability Simulation: 
         #link: "#hook"
         tagline: RelXpert; MOSRA; OMI; Spectre-native
+        
+      - title: Tool Packages: 
+        #link: "#hook"
+        tagline: Cadence Virtuoso; MATLAB
+        
+      - title: High level-languages: 
+        #link: "#hook"
+        tagline: Python; C
 
-
+      - title: High level-languages: 
+        #link: "#hook"
+        tagline: Perl; TCL 
+        
 teaching:
     title: Teaching Experience
     info:
