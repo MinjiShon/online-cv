@@ -154,25 +154,18 @@ publications:
 
 skills:
     title: ENGINEERING SKILLS & TOOLS
-    summary: |
+    intro: >
       - Development of customized reliability simulation tools from Cadence and Synopsys  
       - Data analysis. Automation script for aging model implementation
-
-    toolset:
-      - name: Circuit Netlisting  
-        list: Finesim; Hspice; Spectre
-
-      - name: Reliability Simulation 
-        list: RelXpert; MOSRA; OMI; Spectre-native
-
-      - name: Tool Packages  
-        list: Cadence Virtuoso; MATLAB
-
-      - name: High level-languages 	
-        list: Python; C   
+    assignments:
+      - title: Circuit Netlisting 
+        #link: "#hook"
+        tagline: Finesim; Hspice; Spectre
         
-      - name: Scripting Languages 		
-        list: Perl; TCL  
+      - title: Reliability Simulation 
+        #link: "#hook"
+        tagline: RelXpert; MOSRA; OMI; Spectre-native
+
 
 teaching:
     title: Teaching Experience
@@ -183,7 +176,7 @@ teaching:
         details: |
           Dispatched as a mentor for SVP(Samsung Value Program) mentoring new employees |
           Presented lectures of global business manners and etiquettes, also managed time schedules for education programs |
-          Performed the role of facilitator providing guidance in team projects to bring out members’ creativity and abilities |
+          Performed the role of facilitator providing guidance in team projects to bring out members’ creativity and abilities 
 
 
       - degree: Education Mentor, Sub-course Manager
@@ -191,7 +184,7 @@ teaching:
         time: Jan. 2022 – Mar. 2022
         details: |
           Dispatched as a sub-course manager for GNEC(Global New Employee Course) |
-          Presented lectures of communication skills and creative thinking |
+          Presented lectures of communication skills and creative thinking 
 
           
           
