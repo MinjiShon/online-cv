@@ -17,7 +17,7 @@ sidebar:
     timezone: Republic of Korea 
     citizenship: Republic of Korea 
     #website: blog.webjeda.com #do not add http://
-    linkedin: minji-shon-707b04209
+    linkedin: minji-shon
     #xing: alandoe https://www.linkedin.com/in/minji-shon-707b04209 ##?? 
     github: MinjiShon
     #telegram: # add your nickname without '@' sign
@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: file:///C:/%EB%AF%BC%EC%A7%80/%EC%9C%A0%ED%95%99%EC%A4%80%EB%B9%84/%EC%97%90%EC%84%B8%EC%9D%B4/Statement%20of%20Purpose_Minji%20Shon.pdf
+    #pdf: file:///C:/%EB%AF%BC%EC%A7%80/%EC%9C%A0%ED%95%99%EC%A4%80%EB%B9%84/%EC%97%90%EC%84%B8%EC%9D%B4/Statement%20of%20Purpose_Minji%20Shon.pdf
 
     languages:
       title: Languages
@@ -120,9 +120,9 @@ experiences:
             - Proposed enhancing dynamic device voltage check methodology by analyzing bias check simulation environment and voltage check rules
             - Tested EMS (Electro-Magnetic Susceptibility) and EMI (Electro-Magnetic Interference) with semiconductor chips 
 
-      - role: Undergraduate student research, Signal Processing Systems Laboratory
+      - role: Undergraduate student research
         time: Jan. 2016 – Jun. 2016
-        company: SOGANG UNIVERSITY, Republic of Korea
+        company: Signal Processing Systems Laboratory, Sogang University, Republic of Korea
         details: |
             - Implemented real-time high-speed and high-resolution ultrasound image processing in equipment by using CUDA GPU language  (Advisor: Taekyung Song)
             
@@ -158,8 +158,8 @@ publications:
 skills:
     title: ENGINEERING SKILLS & TOOLS
     intro: >
-      - Development of customized reliability simulation tools from Cadence and Synopsys  | 
-      - Data analysis. Automation script for aging model implementation
+      - Development of customized reliability simulation tools from Cadence and Synopsys
+        Data analysis. Automation script for aging model implementation
     toolset:
       - title: Circuit Netlisting 
         #link: "#hook"
