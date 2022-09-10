@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for honors in honors.papers %}
+  {% for honor in honors.papers %}
   <div class="item">
-    {% if honors.link %}
-      <li><a href="{{ honors.link }}">{{ honors.title }}</a></li>
+    {% if honor.link %}
+      <li><a href="{{ honor.link }}">{{ honor.title }}</a></li>
     {% else %}
-      <li>{{ honors.title }}</li>
+      <li>{{ honor.title }}</li>
     {% endif %}
-    <div class="honors-authors">{{ honors.authors }}</div>
-    <div class="honors-conference">{{ honors.conference }}</div>
+    <div class="honor-authors">{{ honor.authors }}</div>
+    <div class="honor-conference">{{ honor.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
