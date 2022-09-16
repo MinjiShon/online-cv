@@ -153,7 +153,7 @@ publications:
     #intro: |
     papers:
       - title: Aging-aware design verification methods under real product operating conditions
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/8720466"
         authors: Shim, H., Jo, J., Kim, Y., Jeong, B., Shon, M., Jiang, H., & Pae, S.
         conference:  IEEE International Reliability Physics Symposium (IRPS), 2019
 
