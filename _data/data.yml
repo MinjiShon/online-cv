@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hi, my name is Minji Shon. I am Design For Reliability (DFR) engineer with over 6 years experience 
+      Hi, my name is Minji Shon. I am DFR(Design For Reliabilitt) engineer with over 6 years experience 
       in Quality & Reliability team, Foundry Business, Samsung Electronics. 
       I completed my bachelor's degree in Sogang University. 
       
@@ -65,7 +65,7 @@ research:
     title: Research
     summary: |
       I am interested in Circuit Reliability including analog & mixed-signal IC design and digital circuit design. 
-      Mostlly based on Device modeling and Characterization especially Wafer Level Reliability.  
+      Mostly based on Device modeling and Characterization especially Wafer Level Reliability.  
 
 
 education:
@@ -88,7 +88,7 @@ education:
 experiences:
     title: WORK EXPERIENCE
     info:
-      - role: Technology Quality & Reliability Engineer
+      - role: Engineer, Technology Quality & Reliability Group
         time: Aug. 2016 –  Present
         company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
@@ -98,7 +98,7 @@ experiences:
           Improved the coverage and accuracy of transistor’s aging models 
           - Implemented aging models including HCI(Hot Carrier Injection), BTI(Bias Temperature Instability) degradation and TDDB(Time Dependent Dielectric Breakdown) ppm calculation on FinFET technologies
           - Improved consistency of Model to Hardware Correlation (MHC) with ring oscillators' frequency degradation 
-          - Provide layout-based self-heat models and simulation environments collaborating with device reliability group
+          - Provided layout-based self-heat models and simulation environments collaborating with device reliability group
           - Implemented statistical aging simulation tools to support process variation based on wafer level Si test results
         details3: | 
           Provided IP and product-level reliability verification methods
@@ -108,7 +108,7 @@ experiences:
           - Provided aging-aware verification methods in real operating conditions:  Multi-step aging and Power-Down mode simulation methods causing HCI degradation and aging-induced Vt mismatch in ICs 
           - Implemented verification methods to support overdrive voltage for memory IPs such as eFUSE, OTP and MRAM. 
          
-      - role: Dispatch, Design Enablement Team
+      - role: Engineer, Dispatch, Design Enablement Team
         time: Oct. 2021 – Dec. 2021
         company: SAMSUNG ELECTRONICS, Republic of Korea
         details: |
@@ -122,7 +122,7 @@ experiences:
             - Proposed enhancing dynamic device voltage check methodology by analyzing bias check simulation environment and voltage check rules
             - Tested EMS (Electro-Magnetic Susceptibility) and EMI (Electro-Magnetic Interference) with semiconductor chips 
 
-      - role: Undergraduate student research
+      - role: Undergraduate research student 
         time: Jan. 2016 – Jun. 2016
         company: Signal Processing Systems Laboratory, Sogang University, Republic of Korea
         details: |
@@ -143,9 +143,9 @@ experiences:
 honors:
     title: Honors & Awards 
     intro: |
-      - Dean’s List, Sogang University
-      - Full National Scholarship for Academic Excellence, Korea Student Aid Foundation (KSAF), 2014~2016; 20,000 USD
-      - Honors Scholarship for Academic Excellence, Sogang University, 2012~2015; 10,000 USD
+      - Graduated with honors; Dean’s List, Sogang University
+      - Full National Scholarship for Academic Excellence, Korea Student Aid Foundation (KSAF), 2014~2016
+      - Honors Scholarship for Academic Excellence, Sogang University, 2012~2015
 
 
 publications:
